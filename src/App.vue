@@ -6,8 +6,9 @@
   <Nav />
   <Chat />
 </div>
-<div class="col-md-6 text-danger pl-5" style="z-index:99;top:30vh;left:10%">
+<div class="col-md-6 pl-5" style="z-index:99;top:30vh;left:10%">
   <img src="./assets/logo.png" alt="">
+  <h2 class="pl-5">Dveloped by Me : )</h2>
 </div>
 </div>
 </template>
